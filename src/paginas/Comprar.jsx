@@ -4,7 +4,7 @@ import Footer from './componentes/Footer.jsx'
 function App() {
   return (
     <>
-      <h1>Comprar</h1>
+      <h1>Compras</h1>
       <Footer />
     </>
     
